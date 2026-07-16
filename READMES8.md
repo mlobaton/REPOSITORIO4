@@ -56,4 +56,4 @@ Permite eliminar tareas usando su ID.
 ## 1. Clonar repositorio
 
 ```bash
-git clone https://github.com/mlobaton/REPOSITORIO4
+git clone https://github.com/mlobaton/crud-tareas-python-mysql
